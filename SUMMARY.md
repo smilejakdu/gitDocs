@@ -4,3 +4,4 @@
   * [git push git pull 문제](git/git-push-git-pull.md)
   * [git branch tag](git/git-branch-tag.md)
   * [git develop 배포시](git/git-develop.md)
+* [merge 와 rebase](merge-rebase.md)
